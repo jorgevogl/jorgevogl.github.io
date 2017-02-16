@@ -392,7 +392,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Jorge Vogl</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\" \" aria-expanded=\"false\"></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\" \" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Credentials</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Teacher</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Mr.Pate</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Family</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Community</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\" \" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">Application</a><div class=\"dropdown-menu\"><div class=\"dropdown open\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">Word</a><div class=\"dropdown-menu dropdown-submenu\"><div class=\"dropdown open\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">DisscusIT!</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Disscusit 6</a></div></div></div></div></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\" \" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Other</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Pates Gallery.html\">Gallery (Pates)</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Personal Gallery.html\">Gallery (Personal)</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger\" href=\"Contact page.html\">Contact</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\" \" aria-expanded=\"false\"></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\" \" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Credentials</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Teacher</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Mr.Pate</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Family</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Community</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\" \" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">Application</a><div class=\"dropdown-menu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Word</a><div class=\"dropdown-menu dropdown-submenu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">DisscusIT!</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Disscusit 6</a></div></div></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\" aria-expanded=\"true\">Phtotshop</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\" aria-expanded=\"true\">Powerpoint</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\" aria-expanded=\"true\">RPG Maker</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\" \" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Other</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Pates Gallery.html\">Gallery (Pates)</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Personal Gallery.html\">Gallery (Personal)</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger\" href=\"Contact page.html\">Contact</a></li>"
         }
       ]
     },
@@ -583,7 +583,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Jorge Vogl</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\" \" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Other</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Pates Gallery.html\">Gallery (Mr.Pates)</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Personal Gallery.html\">Gallery (Personal)</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\" \" aria-expanded=\"false\"></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\" \" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Credentials</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Teacher</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Mr.Pate</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Family</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Community</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger\" href=\"Contact page.html\">Contact</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\" \" aria-expanded=\"false\"></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\" \" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Credentials</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Teacher</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Mr.Pate</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Family</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Community</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\" \" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">Application</a><div class=\"dropdown-menu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Word</a><div class=\"dropdown-menu dropdown-submenu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">DisscusIT!</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Disscusit 6</a></div></div></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\" aria-expanded=\"true\">Phtotshop</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\" aria-expanded=\"true\">Powerpoint</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\" aria-expanded=\"true\">RPG Maker</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\" \" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Other</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Pates Gallery.html\">Gallery (Pates)</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Personal Gallery.html\">Gallery (Personal)</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger\" href=\"Contact page.html\">Contact</a></li>"
         }
       ]
     },
@@ -593,6 +593,69 @@
         "meta_descr": "Site Creator Description"
       },
       "components": [
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "form1",
+          "_styles": {
+            ".form-control-label": {
+              "color": "#232323"
+            },
+            ".mbr-section-title": {
+              "color": "#ffffff"
+            },
+            "SMALL": {
+              "color": "#ffffff"
+            }
+          },
+          "_anchor": "form1-c",
+          "_params": {
+            "labelsColor": "#232323",
+            "paddingTop": "4",
+            "paddingBottom": "4",
+            "bgImageRadio": true,
+            "parallax": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/085-2000x1666.jpg",
+            "bgColor": "#b8312f",
+            "bgColorRadio": false,
+            "overlay": true,
+            "overlayOpacity": "0.4",
+            "overlayColor": "#222",
+            "showTitle": true,
+            "showSubTitle": true
+          },
+          "title": "CONTACT FORM",
+          "subtitle": "Have a Question or Concern???",
+          "form": {
+            "action": "jorgevogl@outlook.com",
+            "alerts": {
+              "success": "Thanks! I will get back to you as soon as i can! ^_^"
+            },
+            "fields": {
+              "name": {
+                "title": "Name",
+                "visible": true,
+                "customTitle": "Name*"
+              },
+              "email": {
+                "title": "Email",
+                "visible": true,
+                "customTitle": "Email*"
+              },
+              "phone": {
+                "title": "Phone",
+                "visible": true,
+                "customTitle": "Phone"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Message"
+              }
+            }
+          },
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-black\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">CONTACT US</a>"
+        },
         {
           "_inherit": "menu",
           "_tags": [
@@ -678,70 +741,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Jorge Vogl</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\" \" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Other</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Pates Gallery.html\">Gallery (Mr.Pates)</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Personal Gallery.html\">Gallery (Personal)</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\" \" aria-expanded=\"false\"></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\" \" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Credentials</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Teacher</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Mr.Pate</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Family</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Community</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger\" href=\"Contact page.html\">Contact</a></li>"
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "form1",
-          "_styles": {
-            ".form-control-label": {
-              "color": "#232323"
-            },
-            ".mbr-section-title": {
-              "color": "#ffffff"
-            },
-            "SMALL": {
-              "color": "#ffffff"
-            }
-          },
-          "_anchor": "form1-c",
-          "_params": {
-            "labelsColor": "#232323",
-            "paddingTop": "4",
-            "paddingBottom": "4",
-            "bgImageRadio": true,
-            "parallax": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/085-2000x1666.jpg",
-            "bgColor": "#b8312f",
-            "bgColorRadio": false,
-            "overlay": true,
-            "overlayOpacity": "0.4",
-            "overlayColor": "#222",
-            "showTitle": true,
-            "showSubTitle": true
-          },
-          "title": "CONTACT FORM",
-          "subtitle": "Have a Question or Concern???",
-          "form": {
-            "action": "jorgevogl@outlook.com",
-            "alerts": {
-              "success": "Thanks! I will get back to you as soon as i can! ^_^"
-            },
-            "fields": {
-              "name": {
-                "title": "Name",
-                "visible": true,
-                "customTitle": "Name*"
-              },
-              "email": {
-                "title": "Email",
-                "visible": true,
-                "customTitle": "Email*"
-              },
-              "phone": {
-                "title": "Phone",
-                "visible": true,
-                "customTitle": "Phone"
-              },
-              "message": {
-                "title": "Message",
-                "customTitle": "Message"
-              }
-            }
-          },
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-black\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">CONTACT US</a>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\" \" aria-expanded=\"false\"></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\" \" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Credentials</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Teacher</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Mr.Pate</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Family</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Community</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\" \" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">Application</a><div class=\"dropdown-menu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Word</a><div class=\"dropdown-menu dropdown-submenu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">DisscusIT!</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Disscusit 6</a></div></div></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\" aria-expanded=\"true\">Phtotshop</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\" aria-expanded=\"true\">Powerpoint</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\" aria-expanded=\"true\">RPG Maker</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\" \" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Other</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Pates Gallery.html\">Gallery (Pates)</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Personal Gallery.html\">Gallery (Personal)</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger\" href=\"Contact page.html\">Contact</a></li>"
         }
       ]
     },
@@ -896,7 +896,7 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "@primaryColor!important"
+              "color": "#efefef!important"
             }
           },
           "_name": "ext.menu",
@@ -931,7 +931,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Jorge Vogl</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\" \" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Other</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Pates Gallery.html\">Gallery (Mr.Pates)</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Personal Gallery.html\">Gallery (Personal)</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\" \" aria-expanded=\"false\"></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\" \" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Credentials</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Teacher</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Mr.Pate</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Family</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Community</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger\" href=\"Contact page.html\">Contact</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\" \" aria-expanded=\"false\"></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\" \" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Credentials</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Teacher</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Mr.Pate</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Family</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Community</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\" \" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">Application</a><div class=\"dropdown-menu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Word</a><div class=\"dropdown-menu dropdown-submenu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">DisscusIT!</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Disscusit 6</a></div></div></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\" aria-expanded=\"true\">Phtotshop</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\" aria-expanded=\"true\">Powerpoint</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\" aria-expanded=\"true\">RPG Maker</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\" \" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Other</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Pates Gallery.html\">Gallery (Pates)</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Personal Gallery.html\">Gallery (Personal)</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger\" href=\"Contact page.html\">Contact</a></li>"
         }
       ]
     }

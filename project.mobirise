@@ -637,7 +637,7 @@
           },
           "title": "Welcome to Jorge Vogl's Website!<br>",
           "text": "",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-black\" href=\"index.html#content7-9\" data-toolbar=\"-mbrBtnMove\">Biography</a>"
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-black\" href=\"Home Page#content7-9\" data-toolbar=\"-mbrBtnMove\">Biography</a>"
         },
         {
           "_inherit": "features4",

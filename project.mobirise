@@ -1109,7 +1109,7 @@
           },
           "title": "WELCOME!!",
           "text": "",
-          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-white-outline btn-white\" href=\"index.html\" data-toolbar=\"-mbrBtnMove\">Hop on to the main website!</a>"
+          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-white-outline btn-white\" href=\"Home Page\" data-toolbar=\"-mbrBtnMove\">Hop on to the Home Page!</a>"
         },
         {
           "_inherit": "msg-box5",

@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "index.html",
+    "currentPage": "Home Page",
     "name": "My Site",
     "theme": {
       "name": "mobirise3",
@@ -964,7 +964,7 @@
             "overlayColor": "#222"
           },
           "text": "FOLLOW US",
-          "icons": "  <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Google+\" target=\"_blank\" href=\"https://myactivity.google.com/myactivity?utm_source=my-account&amp;utm_medium=&amp;utm_campaign=my-acct-promo\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><span class=\"socicon socicon-googleplus mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 24px; color: rgb(255, 255, 255);\"></span></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"YouTube\" target=\"_blank\" href=\"https://www.youtube.com/channel/UCQsKs4XraN5Rk0kjhdsQNRg\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><span class=\"socicon socicon-youtube mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 25px; color: rgb(255, 255, 255);\"></span></a>       "
+          "icons": "  <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Google+\" target=\"_blank\" href=\"https://myactivity.google.com/myactivity?utm_source=my-account&amp;utm_medium=&amp;utm_campaign=my-acct-promo\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><span class=\"socicon socicon-googleplus mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(255, 255, 255);\"></span></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"YouTube\" target=\"_blank\" href=\"https://www.youtube.com/channel/UCQsKs4XraN5Rk0kjhdsQNRg\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><span class=\"socicon socicon-youtube mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(255, 255, 255);\"></span></a>       "
         }
       ]
     },

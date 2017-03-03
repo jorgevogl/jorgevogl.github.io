@@ -675,12 +675,9 @@ h6,
 #ext_menu-b .dropdown-item[aria-expanded="true"] {
   color: #efefef!important;
 }
-#social-buttons2-r .mbr-section-title,
-#social-buttons2-r .btn-social {
-  color: #232323;
-}
-#social-buttons2-r .mbr-section-title {
-  color: #ffffff;
+#social-buttons4-s .mbr-section-title,
+#social-buttons4-s .btn-social {
+  color: #fff;
 }
 #ext_menu-m .hide-buttons .nav-btn {
   display: none !important;

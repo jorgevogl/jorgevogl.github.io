@@ -483,6 +483,13 @@ h6,
 #ext_menu-b .dropdown-item[aria-expanded="true"] {
   color: #efefef!important;
 }
+#social-buttons2-r .mbr-section-title,
+#social-buttons2-r .btn-social {
+  color: #232323;
+}
+#social-buttons2-r .mbr-section-title {
+  color: #ffffff;
+}
 #ext_menu-b .hide-buttons .nav-btn {
   display: none !important;
 }

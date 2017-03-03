@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "Landing Page",
+    "currentPage": "index.html",
     "name": "My Site",
     "theme": {
       "name": "mobirise3",
@@ -21,7 +21,7 @@
       }
     },
     "versionFirst": "3.11.1",
-    "uniqCompNum": 26,
+    "uniqCompNum": 28,
     "versionPublish": "3.11.1"
   },
   "pages": {
@@ -394,13 +394,42 @@
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"Landing Page\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Jorge Vogl</a>",
           "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\" \" aria-expanded=\"false\"></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\" \" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Credentials</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Teacher</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Mr.Pate</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Family</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Community</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\" \" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">Application</a><div class=\"dropdown-menu\"><div class=\"dropdown open\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">Word</a><div class=\"dropdown-menu dropdown-submenu\"><div class=\"dropdown open\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">DisscusIT!</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://jorgevogl.github.io / document / Discuss IT Topic 6.pdf \" target=\"_blank\">Disscusit 6</a></div></div></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\" aria-expanded=\"false\">Phtotshop</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\" aria-expanded=\"false\">Powerpoint</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\" aria-expanded=\"false\">RPG Maker</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\" \" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Other</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Pates Gallery.html\">Gallery (Pates)</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Personal Gallery.html\">Gallery (Personal)</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger\" href=\"Contact page.html\">Contact</a></li>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .btn-social": {
+              "color": "#232323"
+            },
+            ".mbr-section-title": {
+              "color": "#ffffff"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "social-buttons2",
+          "_anchor": "social-buttons2-r",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": true,
+            "parallax": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/106-2000x1500.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222"
+          },
+          "text": "FOLLOW US",
+          "icons": "  <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Google+\" target=\"_blank\" href=\"https://myactivity.google.com/myactivity?utm_source=my-account&amp;utm_medium=&amp;utm_campaign=my-acct-promo\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-googleplus\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"YouTube\" target=\"_blank\" href=\"https://www.youtube.com/channel/UCQsKs4XraN5Rk0kjhdsQNRg\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-youtube\"></i></a>       "
         }
       ]
     },
     "Personal Gallery.html": {
       "settings": {
         "title": "Check out my work! (Personal)",
-        "meta_descr": "Web Site Maker Description",
+        "meta_descr": "",
         "order": 3
       },
       "components": [
@@ -592,8 +621,8 @@
     "Contact page.html": {
       "settings": {
         "title": "Have a quesiton?",
-        "meta_descr": "Site Creator Description",
-        "order": 4
+        "meta_descr": "",
+        "order": 5
       },
       "components": [
         {
@@ -751,8 +780,8 @@
     "Pates Gallery.html": {
       "settings": {
         "title": "Check out my work! (Pates)",
-        "meta_descr": "Site Builder Description",
-        "order": 5
+        "meta_descr": "",
+        "order": 4
       },
       "components": [
         {
@@ -941,8 +970,8 @@
     },
     "Landing Page": {
       "settings": {
-        "title": "Welcome!!! ^_^",
-        "meta_descr": "Web Maker Description",
+        "title": "Welcome!!!! ^_^",
+        "meta_descr": "",
         "order": 1
       },
       "components": [
@@ -1124,7 +1153,7 @@
             },
             "video": {
               "active": true,
-              "src": "https://www.youtube.com/watch?v=-pw48LHo_ek",
+              "src": "https://www.youtube.com/watch?v=tgCCdGzdzJE",
               "aspectratio": "16:9",
               "autoplay": false,
               "loop": false

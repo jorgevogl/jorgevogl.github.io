@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "Home Page",
+    "currentPage": "index.html",
     "name": "My Site",
     "theme": {
       "name": "mobirise3",
@@ -182,7 +182,7 @@
             }
           },
           "_name": "ext.menu",
-          "_anchor": "ext_menu-b",
+          "_anchor": "ext_menu-m",
           "_params": {
             "bgColor": "#282828",
             "fontSize": 0.75,
@@ -199,10 +199,10 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/piario-128x128.jpg",
+              "src": "@PROJECT_PATH@/assets/images/channle-art-128x128.jpg",
               "height": 128,
               "alt": "Mobirise",
-              "link": "index.html",
+              "link": "Landing Page",
               "title": "",
               "linkInNewWindow": false
             },
@@ -285,7 +285,7 @@
               }
             }
           },
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-black\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">CONTACT US</a>"
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-black\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">CONTACT ME</a>"
         },
         {
           "_inherit": "menu",
@@ -341,7 +341,7 @@
             }
           },
           "_name": "ext.menu",
-          "_anchor": "ext_menu-b",
+          "_anchor": "ext_menu-m",
           "_params": {
             "bgColor": "#282828",
             "fontSize": 0.75,
@@ -358,10 +358,10 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/piario-128x128.jpg",
+              "src": "@PROJECT_PATH@/assets/images/channle-art-128x128.jpg",
               "height": 128,
               "alt": "Mobirise",
-              "link": "index.html",
+              "link": "Landing Page",
               "title": "",
               "linkInNewWindow": false
             },
@@ -532,7 +532,7 @@
             }
           },
           "_name": "ext.menu",
-          "_anchor": "ext_menu-b",
+          "_anchor": "ext_menu-m",
           "_params": {
             "bgColor": "#282828",
             "fontSize": 0.75,
@@ -549,10 +549,10 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/piario-128x128.jpg",
+              "src": "@PROJECT_PATH@/assets/images/channle-art-128x128.jpg",
               "height": 128,
               "alt": "Mobirise",
-              "link": "index.html",
+              "link": "Landing Page",
               "title": "",
               "linkInNewWindow": false
             },

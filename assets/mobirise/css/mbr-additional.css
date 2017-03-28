@@ -740,9 +740,6 @@ h6,
 #ext_menu-m .dropdown-item[aria-expanded="true"] {
   color: #efefef!important;
 }
-#msg-box4-p H3 {
-  color: #ffffff;
-}
 #slider2-x .mbr-section-title,
 #slider2-x .mbr-section-lead {
   color: #fff;
@@ -753,4 +750,7 @@ h6,
 #slider2-x B {
   color: #000000;
   font-size: 46px;
+}
+#header1-11 .mbr-section-title {
+  color: #000000;
 }

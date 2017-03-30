@@ -953,7 +953,7 @@
                 "thumb": "@PROJECT_PATH@/assets/images/framed-me-2000x2666-800x1066.jpg",
                 "image": "@PROJECT_PATH@/assets/images/framed-me-2000x2666.jpg",
                 "caption": "<a href=\"Personal Gallery.html\" class=\"text-info\">Click Here to go to Personal Gallery</a>",
-                "active": false
+                "active": true
               },
               {
                 "tags": "Animated",
@@ -983,7 +983,7 @@
                 "thumb": "@PROJECT_PATH@/assets/images/framed-work-2-2000x2666-800x1066.jpg",
                 "image": "@PROJECT_PATH@/assets/images/framed-work-2-2000x2666.jpg",
                 "caption": "<a href=\"Pates Gallery.html\" class=\"text-info\">Click Here to go to Pates Gallery</a>",
-                "active": true
+                "active": false
               }
             ],
             "spacing": "4",

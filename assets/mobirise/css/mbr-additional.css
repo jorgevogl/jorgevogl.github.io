@@ -767,6 +767,10 @@ h6,
 #social-buttons4-1a .btn-social {
   color: #fff;
 }
-#header1-1p .mbr-section-title {
+#msg-box8-1s .mbr-section-title,
+#msg-box8-1s p {
+  color: #fff;
+}
+#msg-box8-1s .mbr-section-title {
   color: #b8312f;
 }

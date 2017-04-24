@@ -615,6 +615,17 @@ h6,
 #social-buttons4-1n .btn-social {
   color: #fff;
 }
+#slider2-1x .mbr-section-title,
+#slider2-1x .mbr-section-lead {
+  color: #fff;
+}
+#slider2-1x P {
+  color: #000000;
+}
+#slider2-1x B {
+  color: #000000;
+  font-size: 46px;
+}
 #msg-box6-1 .mbr-section-title,
 #msg-box6-1 .lead p {
   color: #fff;

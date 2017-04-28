@@ -763,14 +763,14 @@ h6,
 #ext_menu-m .dropdown-item[aria-expanded="true"] {
   color: #efefef!important;
 }
-#slider2-x .mbr-section-title,
-#slider2-x .mbr-section-lead {
+#slider2-1y .mbr-section-title,
+#slider2-1y .mbr-section-lead {
   color: #fff;
 }
-#slider2-x P {
+#slider2-1y P {
   color: #000000;
 }
-#slider2-x B {
+#slider2-1y B {
   color: #000000;
   font-size: 46px;
 }

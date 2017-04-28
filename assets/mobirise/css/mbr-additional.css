@@ -1,6 +1,8 @@
+@import url(https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
 @import url(https://fonts.googleapis.com/css?family=Lora:400,700);
 @import url(https://fonts.googleapis.com/css?family=Raleway:400,300,700);
+
 
 
 
@@ -476,6 +478,13 @@ h6,
 #social-buttons4-1m .btn-social {
   color: #fff;
 }
+#contacts4-24 P {
+  font-size: 36px;
+  font-family: 'Roboto Condensed', sans-serif;
+}
+#contacts4-24 SPAN {
+  font-size: 18px;
+}
 #form1-c .form-control-label {
   color: #232323;
 }
@@ -550,6 +559,7 @@ h6,
 #social-buttons4-1o .btn-social {
   color: #fff;
 }
+
 #ext_menu-m .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -626,6 +636,14 @@ h6,
   color: #000000;
   font-size: 46px;
 }
+#contacts4-24 P {
+  font-size: 36px;
+  font-family: 'Roboto Condensed', sans-serif;
+}
+#contacts4-24 SPAN {
+  font-size: 18px;
+}
+
 #msg-box6-1 .mbr-section-title,
 #msg-box6-1 .lead p {
   color: #fff;
@@ -702,6 +720,14 @@ h6,
 #social-buttons4-s .btn-social {
   color: #fff;
 }
+#contacts4-24 P {
+  font-size: 36px;
+  font-family: 'Roboto Condensed', sans-serif;
+}
+#contacts4-24 SPAN {
+  font-size: 18px;
+}
+
 #ext_menu-m .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -784,4 +810,11 @@ h6,
 }
 #msg-box8-1s .mbr-section-title {
   color: #b8312f;
+}
+#contacts4-24 P {
+  font-size: 36px;
+  font-family: 'Roboto Condensed', sans-serif;
+}
+#contacts4-24 SPAN {
+  font-size: 18px;
 }

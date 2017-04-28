@@ -1504,7 +1504,7 @@
                 "showText": true,
                 "text": "",
                 "showButtons": true,
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-black\" href=\"index.html#slider2-1y\" data-toolbar=\"-mbrBtnMove\">To the Masterpiece</a> "
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-black\" href=\"Pates Gallery.html\" data-toolbar=\"-mbrBtnMove\">To the Masterpiece</a> "
               },
               {
                 "active": false,
